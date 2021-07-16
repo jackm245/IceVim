@@ -4,4 +4,5 @@
 ## Installation
 
 Install by running a single command
+<br>
 `bash <(curl -s https://raw.githubusercontent.com/jackm245/icevim/master/utils/installer/install.sh)`
