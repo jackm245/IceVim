@@ -1,3 +1,4 @@
+<h1 align="center"> IceVim </h1>
 <p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://github.com/jackm245/IceVim/blob/main/media/iceberg.png?sanitize=true"/></a></p>
 
 <p align="center">
