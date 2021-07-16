@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/jackm245/icevim/media/iceberg.png?sanitize=true"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://github.com/jackm245/IceVim/blob/main/media/iceberg.png?sanitize=true"/></a></p>
 
 <p align="center">
   <a href="https://github.com/jackm245/"><img src="https://img.shields.io/badge/author-Jack%20Morgan-lightblue"/>
