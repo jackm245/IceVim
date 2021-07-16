@@ -1,3 +1,12 @@
+<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/jackm245/icevim/media/iceberg.png?sanitize=true"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/jackm245/"><img src="https://img.shields.io/badge/author-Jack%20Morgan-lightblue"/>
+  <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/build-passing-lightblue"/></a>
+  <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/version-v1.0-lightblue"/></a>
+  <a href="https://github.com/jackm245/nordark.nvim/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightblue"/></a>
+</p>
+
 # IceVim
  A Neovim Distribution based on the Nord colorscheme
 
