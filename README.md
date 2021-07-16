@@ -5,4 +5,9 @@
 
 Install by running a single command
 <br>
-`bash <(curl -s https://raw.githubusercontent.com/jackm245/icevim/master/utils/installer/install.sh)`
+``` bash
+bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/lunarvim/master/utils/installer/install.sh)
+```
+
+## Colorscheme
+IceVim uses the [nordark color scheme](https://github.com/jackm245/nordark.nvim)
