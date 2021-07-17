@@ -31,4 +31,4 @@ set background=dark
 set wildmode=longest,list,full
 set splitbelow splitright "splitting settings
 set clipboard+=unnamedplus "Use system clipboard
-" set laststatus=2
+set laststatus=2
