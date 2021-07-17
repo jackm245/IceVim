@@ -15,7 +15,7 @@ set smartindent
 set nowrap
 set noswapfile
 set nobackup
-set undodir=~/.vim.undodir
+set undodir=~/.vim/undo
 set undofile
 set incsearch
 set termguicolors
@@ -32,3 +32,7 @@ set wildmode=longest,list,full
 set splitbelow splitright "splitting settings
 set clipboard+=unnamedplus "Use system clipboard
 set laststatus=2
+set nocompatible
+filetype plugin on
+
+highlight! link NERDTreeFlags NERDTreeDir
