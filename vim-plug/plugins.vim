@@ -24,6 +24,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'simnalamburt/vim-mundo'
 Plug 'vimwiki/vimwiki'
 Plug 'ryanoasis/vim-devicons'
+Plug 'preservim/nerdcommenter'
 " Old Plugins
 " Plug 'ashisha/image.vim'
 " Plug 'itchyny/lightline.vim'
