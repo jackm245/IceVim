@@ -16,6 +16,9 @@ map <leader>s :Startify<CR>
 "NerdTREE
 map <leader>n :NERDTreeToggle<CR>
 
+" Mundo
+nnoremap <leader>m :MundoToggle<CR>
+
 "goyo
 map <leader>f :Goyo \| set linebreak <CR>
 
