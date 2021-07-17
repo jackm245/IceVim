@@ -25,6 +25,7 @@ Plug 'simnalamburt/vim-mundo'
 Plug 'vimwiki/vimwiki'
 Plug 'ryanoasis/vim-devicons'
 Plug 'preservim/nerdcommenter'
+Plug 'sheerun/vim-polyglot'
 " Old Plugins
 " Plug 'ashisha/image.vim'
 " Plug 'itchyny/lightline.vim'
