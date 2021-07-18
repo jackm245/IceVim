@@ -8,7 +8,8 @@ set hidden
 set ignorecase
 set smartcase
 set noerrorbells
-set tabstop=4 softtabstop=4
+set tabstop=4
+set softtabstop=4
 set shiftwidth=4
 set expandtab
 set smartindent
@@ -34,5 +35,4 @@ set clipboard+=unnamedplus "Use system clipboard
 set laststatus=2
 set nocompatible
 filetype plugin on
-
 highlight! link NERDTreeFlags NERDTreeDir
