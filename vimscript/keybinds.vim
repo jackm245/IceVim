@@ -14,7 +14,7 @@ map <leader>l :wincmd l<CR>
 map <leader>s :Startify<CR>
 
 "NerdTREE
-map <leader>n :NERDTreeToggle<CR>
+map <leader>n :NvimTreeToggle<CR>
 
 " Mundo
 nnoremap <leader>m :MundoToggle<CR>
