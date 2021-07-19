@@ -16,7 +16,7 @@
 Install by running a single command
 <br>
 ``` bash
-bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/lunarvim/master/utils/installer/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/jackm245/icevim/master/utils/installer/install.sh)
 ```
 
 ## Colorscheme
