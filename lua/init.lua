@@ -1,4 +1,4 @@
-require('plugins')
-require('keybinds')
-require('commands')
-require('settings')
+require('base.plugins')
+require('base.keybinds')
+require('base.commands')
+require('base.settings')
