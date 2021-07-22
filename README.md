@@ -27,6 +27,6 @@ IceVim uses the [nordark color scheme](https://github.com/jackm245/nordark.nvim)
 
 Pull requests are welcome.
 
-## License
+## Licence
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This software is under the [MIT](https://choosealicense.com/licenses/mit/) licence
